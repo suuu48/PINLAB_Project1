@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=006EDB&fontColor=DEEAF7&height=200&section=header&text=PINLAB&desc=Project%201&descAlignY=80&fontSize=90)
-# PIN_LAB: Project 1
+![header](https://capsule-render.vercel.app/api?type=soft&color=006EDB&fontColor=DEEAF7&height=200&section=header&text=PINLAB&desc=ATM%20Program&descAlignY=80&fontSize=90)
+# PINLAB_Project1
+ - ATM program linked Google Cloud MySQL based on C++ 
 
-ATM program linked Google Cloud MySQL based on C++ 
 
 ---
 
