@@ -35,9 +35,6 @@ See deployment for notes on how to deploy the project on a live system.
 3. 프로젝트 > 속성 > 구성 속성 > 링커 > 입력 > 추가 종속성: Add "libmysql.lib;"
 4. ```#include <mysql.h>```
 
-#### Connecting [Google Cloud Platform](https://console.cloud.google.com)
-<img src="https://user-images.githubusercontent.com/76460405/204081577-94c0420a-916c-41d4-b797-e86e99438f9e.png" width="422" height="276">
-
 ---
 
 ## Stacks
